@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate Software engineer from Egypt</h3>
 
-- 🔭 I’m currently working on **Kiro Travel Services**
+- 🔭 I’m currently working at **VIVIONIFY**
 
-- 🌱 I’m currently learning **Kubernetes & GraphQL**
+- 🌱 I’m currently learning **GRPC**
 
 - 👨‍💻 All of my projects are available at [http://ahmedhatem.com/](http://ahmedhatem.com/)
 
